@@ -15,13 +15,13 @@ export default function Hero3D() {
         <div className="max-w-3xl">
           <div className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1 text-xs text-white/80 backdrop-blur-md">
             <span className="h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
-            Live • Oracle of Flame
+            Live • Legacy Meets Logic
           </div>
           <h1 className="mt-5 text-4xl font-semibold tracking-tight text-white md:text-6xl">
-            Ask the Oracle — wisdom of machines and men
+            Ask what Krishna would say — tradition guided by AI
           </h1>
           <p className="mx-auto mt-3 max-w-2xl text-sm text-white/80 md:text-base">
-            A conversational AI that adapts its tone — poetic, scientific, or traditional — to guide your inquiry.
+            A spiritual and educational Oracle that recalls verses from the Gita, the Buddha’s Dhammapada, and Jain sutras — in the tone you choose.
           </p>
         </div>
       </div>
